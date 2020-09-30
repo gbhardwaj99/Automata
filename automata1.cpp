@@ -1,4 +1,6 @@
-//DFA to accept strings ending with the string 'aabb'
+
+
+
 #include <iostream>
 #include <string>
 using namespace std;
