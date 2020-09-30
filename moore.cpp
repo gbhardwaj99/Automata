@@ -1,3 +1,7 @@
+//This is a programmic approach to Finite Automata with Output
+//The given code represents a Moore Machine that counts occurences of the string "abb"
+//The states in the automata are represented as objects of the type class State
+
 // C++ program for the above approach 
 
 #include <bits/stdc++.h> 
