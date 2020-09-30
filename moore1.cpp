@@ -1,3 +1,7 @@
+//This is a programmic approach to Finite Automata with Output
+//The given code represents a Moore Machine that prints 2's complement of a given binary number 
+//The states in the automata are represented as objects of the type class State
+
 #include <bits/stdc++.h> 
 using namespace std; 
   
