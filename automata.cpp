@@ -1,4 +1,6 @@
-
+//This is a programmic approach to Finite Automatas
+//The given code represents a DFA that accepts all string ending with '01'
+//The states in the automata are represented as objects of the type class State
 
 
 #include <iostream>
